@@ -94,7 +94,9 @@ button{
        *,html{
         margin-right: auto;
         margin-left: auto;
+        box-sizing: border-box;
        }
+
         
         
         #men{
@@ -134,5 +136,6 @@ button{
         #men_haqimda{
             font-size: 30px;
         }
+
     
     }
